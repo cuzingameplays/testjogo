@@ -1,0 +1,9 @@
+CORRECAO DO ERRO DNS_PROBE_FINISHED_NXDOMAIN
+
+1. Feche a janela antiga do DubShow e o navegador.
+2. Execute ABRIR_SALA_ONLINE.bat desta versao.
+3. Aguarde a mensagem LINK ONLINE VALIDADO.
+4. Mantenha a janela aberta durante a partida.
+
+O endereco trycloudflare.com e temporario. Ao fechar o programa, o link anterior deixa de existir.
+Se nao houver link apos tres tentativas, execute DIAGNOSTICAR_TUNEL.bat.
